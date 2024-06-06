@@ -16,5 +16,5 @@ Este proyecto simula el funcionamiento de un cajero automatico, permitiendo a lo
 ## Instalacion
   - Descargar los archivos del repositorio
   - Una vez descargado la Carpeta Archivos Gestor debe ser ubicada en el disco c
-  - La carpeta cajero puede ser ubicada en la direccion que desee
-  - Para ejecutar el programa 
+  - La carpeta cajero puede ser ubicada en la direccion que desee y puede ejecutarse con el ide de NetbBeans
+  - Para ver la documentacion del proyecto puede ejecutarla desde la direccion cajero \ dist \ javadoc \ index.html
